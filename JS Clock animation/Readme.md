@@ -1,0 +1,1 @@
+The JS + CSS Clock project is an analog clock implemented using HTML, CSS, and JavaScript. It visually represents the current time with dynamically moving hands for hours, minutes, and seconds. this project uses vanilla js out of the box
